@@ -34,3 +34,9 @@ Boot the system by pressing `F10`.
 
 * Repo owner or admin
 * Other community or team contact
+
+## issues ##
+
+* [ ] keyboard and language is not selected when started
+* [ ] preseed URL not passed
+* [ ] dpkg-reconfigure tzdata
