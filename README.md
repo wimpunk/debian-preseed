@@ -12,7 +12,8 @@ This README would normally document whatever steps are necessary to get your app
 
 Boot the system and press `e` to edit the non-graphical installation.  Remove the `quiet` part and 
 add this when starting up:
-```
+
+```lang-none
 keymap=us \
 locale=en_US \ 
 auto \
@@ -20,6 +21,7 @@ url=https://bit.ly/2F95Yg4 \
 interface=enp5s0 \
 hostname=debian
 ```
+
 To make it readable we splitted it in multiple lines.  It should be on one line.
 
 Boot the system by pressing `F10`.
