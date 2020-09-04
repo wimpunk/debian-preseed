@@ -8,14 +8,21 @@ This README would normally document whatever steps are necessary to get your app
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+## How do I get set up? ##
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Boot the system and press `e` to edit the non-graphical installation.  Remove the `quiet` part and 
+add this when starting up:
+```
+keymap=us \
+locale=en_US \ 
+auto \
+url=https://bit.ly/2F95Yg4 \
+interface=enp5s0 \
+hostname=debian
+```
+To make it readable we splitted it in multiple lines.  It should be on one line.
+
+Boot the system by pressing `F10`.
 
 ### Contribution guidelines ###
 
