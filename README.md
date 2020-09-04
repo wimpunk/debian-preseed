@@ -2,20 +2,20 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-## What is this repository for? ##
+## What is this repository for ##
 
 * Quick summary
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-## How do I get set up? ##
+## How do I get set up ##
 
-Boot the system and press `e` to edit the non-graphical installation.  Remove the `quiet` part and 
+Boot the system and press `e` to edit the non-graphical installation.  Remove the `quiet` part and
 add this when starting up:
 
 ```lang-none
 keymap=us \
-locale=en_US \ 
+locale=en_US \
 auto \
 url=https://bit.ly/2F95Yg4 \
 interface=enp5s0 \
@@ -32,7 +32,7 @@ Boot the system by pressing `F10`.
 * Code review
 * Other guidelines
 
-## Who do I talk to? ##
+## Who do I talk to ##
 
 * Repo owner or admin
 * Other community or team contact
