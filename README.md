@@ -2,7 +2,7 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+## What is this repository for? ##
 
 * Quick summary
 * Version
@@ -24,13 +24,13 @@ To make it readable we splitted it in multiple lines.  It should be on one line.
 
 Boot the system by pressing `F10`.
 
-### Contribution guidelines ###
+## Contribution guidelines ##
 
 * Writing tests
 * Code review
 * Other guidelines
 
-### Who do I talk to? ###
+## Who do I talk to? ##
 
 * Repo owner or admin
 * Other community or team contact
