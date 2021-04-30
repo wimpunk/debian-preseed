@@ -24,7 +24,8 @@ Boot the system by pressing `F10`.
 
 Boot the system from a debian install CD.  Choose "Advanced Options" followed by
 "Automated Install".  It will ask for an URL.
-Use `https://bitbucket.org/24sea/debian-preseed/raw/master/preseed.cfg` as location.
+Use `https://raw.githubusercontent.com/wimpunk/debian-preseed/master/preseed.cfg`
+as location.
 Or use the short version `https://cut.ly/zH0uSTK`
 
 ## Afterwards ##
