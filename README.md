@@ -41,4 +41,5 @@ The system is accessible using ssh and on the console
       to work with ansible
 * [ ] install salt-minion and the minion key
 * [ ] make access on the console possible in rescue mode
-* [ ] add a public usable by everyone
+* [x] add a public ssh-key usable by everyone
+
