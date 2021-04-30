@@ -36,11 +36,6 @@ The system is accessible using ssh and on the console
 
 ## issues ##
 
-* [ ] keyboard and language is not selected when started
-* [ ] preseed URL not passed
-* [ ] dpkg-reconfigure tzdata
-* [ ] difference between hyper-v and vmware virtualised and
-      install the needed packages based on this finding
 * [ ] It should use a shared ansible key and install the needed packages
       to work with ansible
 * [ ] install salt-minion and the minion key
