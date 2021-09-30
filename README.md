@@ -43,3 +43,9 @@ The system is accessible using ssh and on the console
 * [ ] make access on the console possible in rescue mode
 * [x] add a public ssh-key usable by everyone
 
+## links ##
+
+* https://wiki.debian.org/DebianInstaller/Preseed/EditIs
+* https://gist.github.com/ageekymonk/3d691d89c14da837955c
+* https://wiki.debian.org/Installation+Archive+USBStick
+* https://gist.github.com/nmaupu/1040657ac7728adff0356ec3139a22f9
