@@ -48,6 +48,7 @@ The system is accessible using ssh and on the console
 * [ ] install salt-minion and the minion key
 * [ ] make access on the console possible in rescue mode
 * [x] add a public ssh-key usable by everyone
+* [ ] it would be easier if the IP was shown after booting
 
 ## links ##
 
