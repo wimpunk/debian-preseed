@@ -2,6 +2,12 @@
 
 ## How do I get set up ##
 
+### Simplier ###
+
+Boot the system from a debian install CD.  Choose "Advanced Options" followed by
+"Automated Install".  It will ask for an URL.
+Use `https://bitbucket.org/24sea/debian-preseed/raw/master/preseed.cfg` as location.
+
 ### Hardest way ###
 
 Boot the system from CD and press `e` to edit the non-graphical installation.  Remove the `quiet` part and
