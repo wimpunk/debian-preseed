@@ -56,3 +56,4 @@ The system is accessible using ssh and on the console
 * https://gist.github.com/ageekymonk/3d691d89c14da837955c
 * https://wiki.debian.org/Installation+Archive+USBStick
 * https://gist.github.com/nmaupu/1040657ac7728adff0356ec3139a22f9
+* https://www.debian.org/releases/trixie/example-preseed.txt
