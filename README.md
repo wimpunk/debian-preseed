@@ -44,16 +44,16 @@ The system is accessible using ssh and on the console
 ## issues ##
 
 * [ ] It should use a shared ansible key and install the needed packages
-      to work with ansible
-* [ ] install salt-minion and the minion key
-* [ ] make access on the console possible in rescue mode
-* [x] add a public ssh-key usable by everyone
-* [ ] it would be easier if the IP was shown after booting
+      to work with ansible.
+* [ ] install salt-minion and the minion key.
+* [ ] make access on the console possible in rescue mode.
+* [x] add a public ssh-key usable by everyone.
+* [ ] it would be easier if the IP was shown after booting.
 
 ## links ##
 
-* https://wiki.debian.org/DebianInstaller/Preseed/EditIs
-* https://gist.github.com/ageekymonk/3d691d89c14da837955c
-* https://wiki.debian.org/Installation+Archive+USBStick
-* https://gist.github.com/nmaupu/1040657ac7728adff0356ec3139a22f9
-* https://www.debian.org/releases/trixie/example-preseed.txt
+* <https://wiki.debian.org/DebianInstaller/Preseed/EditIs>
+* <https://gist.github.com/ageekymonk/3d691d89c14da837955c>
+* <https://wiki.debian.org/Installation+Archive+USBStick>
+* <https://gist.github.com/nmaupu/1040657ac7728adff0356ec3139a22f9>
+* <https://www.debian.org/releases/trixie/example-preseed.txt>
