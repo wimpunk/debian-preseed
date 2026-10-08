@@ -11,7 +11,7 @@ add this when starting up:
 keymap=us \
 locale=en_US \
 auto \
-url=https://cut.ly/zH0uSTK \
+url=https://tinyurl.com/y7mbsk5v \
 interface=enp5s0 \
 hostname=debian
 ```
@@ -24,8 +24,9 @@ Boot the system by pressing `F10`.
 
 Boot the system from a debian install CD.  Choose "Advanced Options" followed by
 "Automated Install".  It will ask for an URL.
-Use `https://bitbucket.org/24sea/debian-preseed/raw/master/preseed.cfg` as location.
-Or use the short version `https://cut.ly/zH0uSTK`
+Use `https://raw.githubusercontent.com/wimpunk/debian-preseed/master/preseed.cfg`
+as location.
+Or use the short version `https://tinyurl.com/y7mbsk5v`
 
 ## Afterwards ##
 
